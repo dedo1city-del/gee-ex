@@ -1,0 +1,18 @@
+{
+    "functions": {
+        "api/level_route.js": {
+            "maxDuration": 60
+        }
+    },
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/api/level_route.js",
+            "methods": [
+                "POST",
+                "GET",
+                "OPTIONS"
+            ]
+        }
+    ]
+}
